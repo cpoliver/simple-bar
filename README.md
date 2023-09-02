@@ -4,7 +4,7 @@ A [yabai](https://github.com/koekeishiya/yabai) status bar widget for [Übersich
 
 ⚠️ **As I do not possess a M1 mac book I can't solve any issue happening on these models. Feel free to open some pull requests if you want to help me about these. See "Compatibility & requirements" section for more information.** ⚠️
 
-A more "lite" & less ressource greedy version is available [here](https://github.com/Jean-Tinland/simple-bar-lite).
+A more "lite" & less ressource greedy version is available [here](https://github.com/cpoliver/simple-bar-lite).
 
 ## Features
 
@@ -55,7 +55,7 @@ You'll find more information & images on [simple-bar website](https://www.simple
 Clone this repo to your Übersicht widgets directory with the following command.
 
 ```bash
-$ git clone https://github.com/Jean-Tinland/simple-bar $HOME/Library/Application\ Support/Übersicht/widgets/simple-bar
+$ git clone https://github.com/cpoliver/simple-bar $HOME/Library/Application\ Support/Übersicht/widgets/simple-bar
 ```
 
 **Be careful, the folder containing the widget must be named `simple-bar`, otherwise, simple-bar will never launch.**
@@ -151,7 +151,7 @@ export const appIcons = {
 
 If there is no icon defined for a running process, there is a default one which will be used as fallback.
 
-Same as for themes, feel free to post a message in [this issue](https://github.com/Jean-Tinland/simple-bar/issues/189) if you have an icon request.
+Same as for themes, feel free to post a message in [this issue](https://github.com/cpoliver/simple-bar/issues/189) if you have an icon request.
 
 ### Override default styles
 
